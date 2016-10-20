@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [com.my.TestNG by packages]">
+  <test verbose="2" name="com.my.first">
+    <packages>
+      <package name="com.my.first"/>
+    </packages>
+    <classes>
+      <class name="com.my.first.FirstTest"/>
+    </classes>
+  </test> <!-- com.my.first -->
+</suite> <!-- Failed suite [com.my.TestNG by packages] -->
